@@ -1,5 +1,5 @@
 # Interfacing--Automated-Irrigation-System
-Computer Interfacing Project:a group project
+Computer Interfacing Project: A group project
 
 Automated Irrigation System (using motors and soil moisture sensor)using
 Proteus and LabView: The objective of this project is to develop a system
@@ -10,4 +10,3 @@ a motor. You will also need to keep track of the water level of the tank using
 a sensor. The moisture level and tank water level needs to be shown in the
 labview gui.
 
-My part was to design the LabView GUI
